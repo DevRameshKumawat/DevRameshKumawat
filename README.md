@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Dev.RameshKumawat
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning MERN || Full Stack Developer
+- 👋 Hi there! I'm RAMESH KUMAWAT, a passionate Full Stack Developer with a focus on the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building scalable web applications and crafting clean, efficient code.
+- 🌱 I’m currently learning Next.js || Full Stack Developer
 - 💞️ I’m looking to collaborate on MERN Stack
 - 📫 rameshkumawat7282@gmail.com || dev.rameshkumawat@gmail.com
 
